@@ -12,7 +12,7 @@ All About Php - History , Community Support , Open Source
 
 
 
-Some General Discussion Related to Php and Other Language
+Some General Discussion Related to Php
 =========================================================
 ![flow_php](https://user-images.githubusercontent.com/78407424/163806024-ea1fc994-b7a2-439f-9445-665822b23e89.png)
 
