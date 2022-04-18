@@ -35,6 +35,11 @@ How Php Code Get Executed and Take Memory
                 - local
                 - global
                 - static
+         - control structure
+                 - conditional statement
+                 - repetational statement
+                 - selectional  statement
+                 - jumping  statement
          - Operators
            ---------
                  - Arithmetic operators
