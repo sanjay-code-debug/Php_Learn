@@ -76,6 +76,29 @@ How Php Code Get Executed and Take Memory
             - $_SESSION
 
 
+  Php Advance 
+  -----------
+              - 
+              - 
+              - 
+              - 
+              - 
+              - 
+              -
+              -
+              -
+              -
+              -
+              -
+              -
+              -
+              -
+              
+OOPS Overview
+-------------
+            - 
+
+
 ##  Learning OOP in PHP
 A collection of resources to learn object-oriented programming and related concepts for PHP developers.
 
