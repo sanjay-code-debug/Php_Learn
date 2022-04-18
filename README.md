@@ -16,6 +16,7 @@ Some General Discussion Related to Php
 =========================================================
 ![flow_php](https://user-images.githubusercontent.com/78407424/163806024-ea1fc994-b7a2-439f-9445-665822b23e89.png)
 ![general1](https://user-images.githubusercontent.com/78407424/163806365-b3cb8416-1f7f-4e01-aed8-2700a492a8ae.png)
+![general2](https://user-images.githubusercontent.com/78407424/163806907-c16b1b28-2778-463c-9bac-69a97291570e.png)
 
 
    Basic
