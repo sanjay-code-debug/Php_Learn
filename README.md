@@ -369,15 +369,16 @@ php - 7.4 New Feature
      
 latest changes
 --------------
-  Forget array_merge: PHP 7.4 Brings Spread Operator in Array Expression
-    - Arrow Functions 2.0 (Short Closures)
-    - Null Coalescing Assignment Operator
-    - Typed Properties 2.0
-    - Weak References
-    - Covariant Returns and Contravariant Parameters
-    - Preloading
-    - New Custom Object Serialization Mechanism
-    - Deprecations
+    Forget array_merge: PHP 7.4 Brings Spread Operator in Array Expression
+  
+      - Arrow Functions 2.0 (Short Closures)
+      - Null Coalescing Assignment Operator
+      - Typed Properties 2.0
+      - Weak References
+      - Covariant Returns and Contravariant Parameters
+      - Preloading
+      - New Custom Object Serialization Mechanism
+      - Deprecations
 
 
 PHP 8.0 New Features
