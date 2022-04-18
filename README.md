@@ -359,5 +359,86 @@ A collection of resources to learn object-oriented programming and related conce
 
 Php Latest Concept With New Release
 ===================================
-     - 
+    
+php - 7.4 New Feature
+---------------------
+     - https://www.php.net/manual/en/migration74.new-features.php
+     - https://kinsta.com/blog/php-7-4/
+     - https://medium.com/@daniel.dan/whats-new-in-php-7-4-top-10-features-that-you-need-to-know-e0acc3191f0a
+     - https://stitcher.io/blog/new-in-php-74
+     
+latest changes
+--------------
+Forget array_merge: PHP 7.4 Brings Spread Operator in Array Expression
+  - Arrow Functions 2.0 (Short Closures)
+  - Null Coalescing Assignment Operator
+  - Typed Properties 2.0
+  - Weak References
+  - Covariant Returns and Contravariant Parameters
+  - Preloading
+  - New Custom Object Serialization Mechanism
+  - Deprecations
+
+
+PHP 8.0 New Features
+---------------------
+     - https://kinsta.com/blog/php-8/
+     
+latest changes
+--------------
+   - Constructor Property Promotion
+   - Validation for Abstract Trait Methods
+   - Incompatible Method Signatures
+   - Arrays Starting With a Negative Index
+   - Union Types 2.0
+   - Consistent Type Errors for Internal Functions
+   - throw Expression
+   - Weak Maps
+   - Trailing Comma in Parameter List
+   - Allow ::class syntax on objects
+   - Attributes v2
+   - Named Arguments
+   - Nullsafe Operator
+   - Saner String to Number Comparisons
+   - Saner Numeric Strings
+   - Match Expression v2
+   - Stricter Type Checks for Arithmetic/Bitwise Operators
+
+PHP 8.1 New Features
+--------------------
+   - https://www.php.net/releases/8.1/en.php
+   - https://kinsta.com/blog/php-8.1/
+   - https://kinsta.com/blog/php-8/
+     
+latest changes
+--------------
+   - Pure Intersection Types
+   - Enums
+   - The never Return Type
+   - Fibers
+   - New readonly Properties
+   - Define final Class Constants
+   - New fsync() and fdatasync() Functions
+   - New array_is_list() Function
+   - New Sodium XChaCha20 Functions
+   - New IntlDatePatternGenerator Class
+   - Support for AVIF Image Format
+   - New $_FILES: full_path Key for Directory Uploads
+   - Array Unpacking Support for String-Keyed Arrays
+   - Explicit Octal Numeral Notation
+   - MurmurHash3 and xxHash Hash Algorithms Support
+   - DNS-over-HTTPS (DoH) Support
+   - File Uploads from Strings with CURLStringFile
+   - New MYSQLI_REFRESH_REPLICA Constant
+   - Performance Improvements with Inheritance Cache
+   - First-Class Callable Syntax
+     
+     
+     
+
+
+
+     
+     
+     
 
