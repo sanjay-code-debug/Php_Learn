@@ -64,6 +64,16 @@ How Php Code Get Executed and Take Memory
             - Indexed arrays - Arrays with a numeric index
             - Associative arrays - Arrays with named keys
             - Multidimensional arrays - Arrays containing one or more arrays
+       - Superglobals
+            - $GLOBALS
+            - $_SERVER
+            - $_REQUEST
+            - $_POST 
+            - $_GET
+            - $_FILES
+            - $_ENV
+            - $_COOKIE
+            - $_SESSION
 
 
 ##  Learning OOP in PHP
