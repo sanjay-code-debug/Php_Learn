@@ -23,7 +23,8 @@ Some General Discussion Related to Php
 How Php Code Get Executed and Take Memory
 =========================================
 ![memory_1](https://user-images.githubusercontent.com/78407424/163807956-2e35d1d9-7a58-4c93-b77b-d033c3abd409.png)
-![memory_2](https://user-images.githubusercontent.com/78407424/163808759-73a63274-d248-4a75-8bb3-6a57d5a1c5d6.png)
+![memory_3](https://user-images.githubusercontent.com/78407424/163809075-fa57672e-2934-4e9c-989f-7ce0ceffa2ff.png)
+
 
 
 
