@@ -60,7 +60,10 @@ How Php Code Get Executed and Take Memory
              - Object
              - NULL
              - Resource
-        - 
+        - Array
+            - Indexed arrays - Arrays with a numeric index
+            - Associative arrays - Arrays with named keys
+            - Multidimensional arrays - Arrays containing one or more arrays
 
 
 ##  Learning OOP in PHP
