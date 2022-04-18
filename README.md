@@ -32,6 +32,9 @@ How Php Code Get Executed and Take Memory
          - Syntax
          - Comments
          - Variables 
+                - local
+                - global
+                - static
          - Operators
            ---------
                  - Arithmetic operators
