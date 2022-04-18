@@ -78,21 +78,31 @@ How Php Code Get Executed and Take Memory
 
   Php Advance 
   -----------
-              - 
-              - 
-              - 
-              - 
-              - 
-              - 
-              -
-              -
-              -
-              -
-              -
-              -
-              -
-              -
-              -
+            - Classes and Objects
+            - Expressions
+            - Namespaces
+            - Enumerations
+            - Errors
+            - Exceptions
+            - Fibers
+            - Generators
+            - Class Constants
+            - Autoloading Classes
+            - Constructors and Destructors
+            - Visibility(Acess Specifier)
+            - Scope Resolution Operator (::)
+            - Static Keyword
+            - Final Keyword
+            - Class Abstraction
+            - Object Interfaces
+            - Traits
+            - Anonymous classes
+            - Overloading
+            - Object Iteration
+            - Magic Methods
+            - Object Cloning
+            - Comparing Objects
+            - Late Static Bindings
               
 OOPS Overview
 -------------
