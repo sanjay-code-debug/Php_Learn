@@ -369,15 +369,15 @@ php - 7.4 New Feature
      
 latest changes
 --------------
-Forget array_merge: PHP 7.4 Brings Spread Operator in Array Expression
-  - Arrow Functions 2.0 (Short Closures)
-  - Null Coalescing Assignment Operator
-  - Typed Properties 2.0
-  - Weak References
-  - Covariant Returns and Contravariant Parameters
-  - Preloading
-  - New Custom Object Serialization Mechanism
-  - Deprecations
+  Forget array_merge: PHP 7.4 Brings Spread Operator in Array Expression
+    - Arrow Functions 2.0 (Short Closures)
+    - Null Coalescing Assignment Operator
+    - Typed Properties 2.0
+    - Weak References
+    - Covariant Returns and Contravariant Parameters
+    - Preloading
+    - New Custom Object Serialization Mechanism
+    - Deprecations
 
 
 PHP 8.0 New Features
@@ -386,52 +386,52 @@ PHP 8.0 New Features
      
 latest changes
 --------------
-   - Constructor Property Promotion
-   - Validation for Abstract Trait Methods
-   - Incompatible Method Signatures
-   - Arrays Starting With a Negative Index
-   - Union Types 2.0
-   - Consistent Type Errors for Internal Functions
-   - throw Expression
-   - Weak Maps
-   - Trailing Comma in Parameter List
-   - Allow ::class syntax on objects
-   - Attributes v2
-   - Named Arguments
-   - Nullsafe Operator
-   - Saner String to Number Comparisons
-   - Saner Numeric Strings
-   - Match Expression v2
-   - Stricter Type Checks for Arithmetic/Bitwise Operators
+      - Constructor Property Promotion
+      - Validation for Abstract Trait Methods
+      - Incompatible Method Signatures
+      - Arrays Starting With a Negative Index
+      - Union Types 2.0
+      - Consistent Type Errors for Internal Functions
+      - throw Expression
+      - Weak Maps
+      - Trailing Comma in Parameter List
+      - Allow ::class syntax on objects
+      - Attributes v2
+      - Named Arguments
+      - Nullsafe Operator
+      - Saner String to Number Comparisons
+      - Saner Numeric Strings
+      - Match Expression v2
+      - Stricter Type Checks for Arithmetic/Bitwise Operators
 
 PHP 8.1 New Features
 --------------------
-   - https://www.php.net/releases/8.1/en.php
-   - https://kinsta.com/blog/php-8.1/
-   - https://kinsta.com/blog/php-8/
+     - https://www.php.net/releases/8.1/en.php
+     - https://kinsta.com/blog/php-8.1/
+     - https://kinsta.com/blog/php-8/
      
 latest changes
 --------------
-   - Pure Intersection Types
-   - Enums
-   - The never Return Type
-   - Fibers
-   - New readonly Properties
-   - Define final Class Constants
-   - New fsync() and fdatasync() Functions
-   - New array_is_list() Function
-   - New Sodium XChaCha20 Functions
-   - New IntlDatePatternGenerator Class
-   - Support for AVIF Image Format
-   - New $_FILES: full_path Key for Directory Uploads
-   - Array Unpacking Support for String-Keyed Arrays
-   - Explicit Octal Numeral Notation
-   - MurmurHash3 and xxHash Hash Algorithms Support
-   - DNS-over-HTTPS (DoH) Support
-   - File Uploads from Strings with CURLStringFile
-   - New MYSQLI_REFRESH_REPLICA Constant
-   - Performance Improvements with Inheritance Cache
-   - First-Class Callable Syntax
+        - Pure Intersection Types
+        - Enums
+        - The never Return Type
+        - Fibers
+        - New readonly Properties
+        - Define final Class Constants
+        - New fsync() and fdatasync() Functions
+        - New array_is_list() Function
+        - New Sodium XChaCha20 Functions
+        - New IntlDatePatternGenerator Class
+        - Support for AVIF Image Format
+        - New $_FILES: full_path Key for Directory Uploads
+        - Array Unpacking Support for String-Keyed Arrays
+        - Explicit Octal Numeral Notation
+        - MurmurHash3 and xxHash Hash Algorithms Support
+        - DNS-over-HTTPS (DoH) Support
+        - File Uploads from Strings with CURLStringFile
+        - New MYSQLI_REFRESH_REPLICA Constant
+        - Performance Improvements with Inheritance Cache
+        - First-Class Callable Syntax
      
      
      
